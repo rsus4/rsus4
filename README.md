@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  drgoli here</h1>
+
+
+
+
+<h1>GitHub Stats</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jishnu19048&amp;show_icons=true" alt="GitHub Stats"></p>
+
+
+<h11>Where to find me</h1>
+<p><a href="https://github.com/jishnu19048" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jishnu-raj-parashar-5889b4190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </a>
+</p>
+
+<p>⏰ Updated on Sat, 29 Aug 2020</p>
+
 
 <!--
 **rsus4/rsus4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
