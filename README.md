@@ -3,12 +3,11 @@
 <h1>GitHub Stats</h1>
 <p><img src="https://github-readme-stats.vercel.app/api?username=rsus4&amp;show_icons=true" alt="GitHub Stats"></p>
 
+![Rishit's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsus4&theme=radical&layout=compact&show_icons=true)
 
 <h11>Where to find me</h1>
 <p><a href="https://github.com/rsus4" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rishitgupta31" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </a>
 </p>
-
-![Rishit's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsus4&theme=radical&layout=compact&show_icons=true)
 
 <p>⏰ Updated on Sat, 29 Aug 2020</p>
 
